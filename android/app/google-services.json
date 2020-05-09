@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084814607705",
+    "firebase_url": "https://ninth-glider-250204.firebaseio.com",
+    "project_id": "ninth-glider-250204",
+    "storage_bucket": "ninth-glider-250204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084814607705:android:264aa3ad206ad93412b848",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084814607705-tiro0tp2va3130445rfme4tcg41ao3cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepyjxgxIn59CYVC0OEo9PfmcM9MUJp7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084814607705-tiro0tp2va3130445rfme4tcg41ao3cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

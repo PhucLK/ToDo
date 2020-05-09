@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1084814607705-rnf4ojehpr97i989v0focpl8o47ang80.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1084814607705-rnf4ojehpr97i989v0focpl8o47ang80</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6Zs3bEOfa-1NYFAxhDRlCS1Vsc6Icds8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1084814607705</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.todo</string>
+	<key>PROJECT_ID</key>
+	<string>ninth-glider-250204</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ninth-glider-250204.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1084814607705:ios:47f8bc564e30c48712b848</string>
+	<key>DATABASE_URL</key>
+	<string>https://ninth-glider-250204.firebaseio.com</string>
+</dict>
+</plist>
